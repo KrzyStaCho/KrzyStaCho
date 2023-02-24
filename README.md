@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Chowaniec</h1>
 <h3 align="center">I have 21 years old and for now I'm student.</h3>
 
-- 🔭 I’m currently working on [Rental Video Shop](https://github.com/KrzyStaCho/Rental-Video-Shop)
+- 🔭 I’m currently working on [Survey Handler (Java)](https://github.com/KrzyStaCho/Survey-Handler)
 
 - 🌱 I’m currently learning **C#**
 
