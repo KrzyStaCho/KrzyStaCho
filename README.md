@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fighter Game v3 (Java, Swing)](https://github.com/KrzyStaCho/Fighter-Game-v3)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **krzysztof.stachowaniec@gmail.com**
 
