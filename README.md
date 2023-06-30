@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Chowaniec</h1>
 <h3 align="center">I have 21 years old and for now I'm student.</h3>
 
-- 🔭 I’m currently working on [Fighter Game v3 (Java, Swing)](https://github.com/KrzyStaCho/Fighter-Game-v3)
+- 🔭 I’m currently working on [Product Manager - WPF](https://github.com/KrzyStaCho/ProductManager)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **krzysztof.stachowaniec@gmail.com**
 
