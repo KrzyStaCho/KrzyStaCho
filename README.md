@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Chowaniec</h1>
 <h3 align="center">I have 21 years old and for now I'm student.</h3>
 
-- 🔭 I’m currently working on [Product Manager - WPF](https://github.com/KrzyStaCho/ProductManager)
+- 🔭 I’m currently working on [ShopSystem - WPF](https://github.com/KrzyStaCho/Shop-System)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# WPF**
 
 - 📫 How to reach me **krzysztof.stachowaniec@gmail.com**
+
+- Recommended project to see [ShopSystem - WPF](https://github.com/KrzyStaCho/Shop-System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
