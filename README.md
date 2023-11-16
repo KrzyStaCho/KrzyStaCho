@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Chowaniec</h1>
 
-- 🔭 I’m currently working on [Restaurant Project - WPF]()
+- 🔭 I’m currently working on [Restaurant Project - WPF](https://github.com/KrzyStaCho/Restaurant-Project)
 
 - 🌱 I’m currently learning **C# WPF**
 
